@@ -19,7 +19,7 @@ Disponível em: https://www.kaggle.com/datasets/vivek468/superstore-dataset-fina
  
 ## Processo
  
-1. **Análise exploratória** (`eda_superstore.py`) — estrutura, tipos de dados, valores ausentes, duplicidades e inconsistências.
+1. **Análise exploratória** (`eda_superstore.ipynb`) — estrutura, tipos de dados, valores ausentes, duplicidades e inconsistências.
 2. **Tratamento dos dados (ETL)** — padronização e limpeza no Power Query.
 3. **Modelagem e construção** — medidas em DAX, hierarquia de datas, visuais organizados por página.
 4. **Validação** — indicadores confrontados com a base original.
