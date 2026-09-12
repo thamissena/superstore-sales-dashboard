@@ -46,6 +46,3 @@ Script para estudo exploratório dos dados:
 ## Tecnologias
  
 Excel · Power Query · Power BI · DAX · Python (Pandas)
- 80%) geram prejuízo em parte dos pedidos.
-Tecnologias
-Excel · Power Query · Power BI · DAX · Python (Pandas)
