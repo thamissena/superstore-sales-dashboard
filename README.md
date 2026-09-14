@@ -4,6 +4,7 @@
 Case study de Business Intelligence: dashboard interativo em Power BI para análise de faturamento, produtos, categorias, regiões e desempenho comercial.
  
 **Dashboard:** [(https://app.powerbi.com/view?r=eyJrIjoiZThjMDcwZjctNmM0NC00MWI2LWFjMTQtMzQ0ZGQ3ZjgyZTEwIiwidCI6ImRmOGIyNDQ0LTFlNmMtNDRiYy05OTdlLTdjZTI4YzQ1NjNlNiJ9)]
+
 **Portfólio:** [(https://thamitech.wixsite.com/thamidatasolutions)]
  
 ## Objetivo
