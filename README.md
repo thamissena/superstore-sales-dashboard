@@ -40,9 +40,9 @@ Script para estudo exploratório dos dados:
 ## Principais insights
  
 - As três categorias (Tecnologia, Móveis, Suprimentos de Escritório) têm participação equilibrada no faturamento, sem concentração dominante.
-- Os 3 produtos mais vendidos representam apenas ~5% da receita — cauda longa relevante.
+- O mais vendidos representam apenas ~7,37% da receita.
 - A região Oeste lidera o faturamento; a região Sul é a menos representativa.
-- Descontos acima de determinado patamar (até 80%) geram prejuízo em parte dos pedidos.
+- Sazonalidade com picos em novembro e dezembro; menor volume em fevereiro.
 
 ## Tecnologias
  
